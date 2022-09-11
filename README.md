@@ -1,5 +1,7 @@
 This is a demo application to provide e-sell functionality.
 
+please find readme.docx to navigate with images resoures
+
 DB Structure
 1.	item
 2.	seller
